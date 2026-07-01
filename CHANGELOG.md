@@ -18,6 +18,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Github Actions
 
+## [1.0.1] - date 2026-07-01
+
+### Changed
+- Fixed CITATION.cff
+
+### Libs
+- Update dependency gradle to v9.6.1
+- Update dependency org.junit.jupiter:junit-jupiter to v6.1.1
+- Update dependency org.junit.platform:junit-platform-launcher to v6.1.1
+
+### Github Actions
+- Update actions/checkout action to v7
+- Update actions/setup-java action to v5.4.0
+
 ## [1.0.0] - date 2026-06-17
 
 ### Changed
@@ -47,4 +61,5 @@ First release of JsonPatch library.
 
 [0.9.0]: https://github.com/kit-data-manager/metastore2/releases/tag/v0.9.0
 [1.0.0]: https://github.com/kit-data-manager/metastore2/compare/v0.9.0...v1.0.0
-[Unreleased]: https://github.com/kit-data-manager/metastore2/compare/v1.0.0...HEAD
+[1.0.1]: https://github.com/kit-data-manager/metastore2/compare/v1.0.0...v1.0.1
+[Unreleased]: https://github.com/kit-data-manager/metastore2/compare/v1.0.1...HEAD
