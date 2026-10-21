@@ -85,11 +85,11 @@
     "license": "https://spdx.org/licenses/Apache-2.0",
     "runtimePlatform": "JVM",
     "softwareRequirements": [
-      "https://www.oracle.com/java/technologies/downloads/#java21"
+        "https://www.oracle.com/java/technologies/downloads/#java21"
     ],
     "developmentStatus": "Production/Stable",
     "issueTracker": "https://github.com/kit-data-manager/JSONPatch/issues",
-    "version": "1.0.0",
-    "softwareVersion": "1.0.0",
-    "dateModified": "2026-06-17"
+    "version": "1.0.2",
+    "softwareVersion": "1.0.2",
+    "dateModified": "2026-10-21"
 }
