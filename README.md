@@ -30,14 +30,14 @@ The library is available on Maven Central.
 <dependency>
   <groupId>edu.kit.datamanager</groupId>
   <artifactId>JsonPatch</artifactId>
-  <version>0.9.0</version>
+  <version>1.0.2</version>
 </dependency>
 ```
 
 ### Gradle (build.gradle)
 
 ```groovy
-implementation 'edu.kit.datamanager:JsonPatch:0.9.0'
+implementation 'edu.kit.datamanager:JsonPatch:1.0.2'
 ```
 
 ## Examples
